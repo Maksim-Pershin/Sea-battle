@@ -1,0 +1,106 @@
+﻿  Source.cpp
+D:\Project\Project1\Project1\Source.cpp(279,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(279,43): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(279,43): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(279,43): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(279,43): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(278,105): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(278,105): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(278,105): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(278,105): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(278,105): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(501,87): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(501,87): warning C4267:         with
+D:\Project\Project1\Project1\Source.cpp(501,87): warning C4267:         [
+D:\Project\Project1\Project1\Source.cpp(501,87): warning C4267:             _Ty=int
+D:\Project\Project1\Project1\Source.cpp(501,87): warning C4267:         ]
+D:\Project\Project1\Project1\Source.cpp(514,87): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(514,87): warning C4267:         with
+D:\Project\Project1\Project1\Source.cpp(514,87): warning C4267:         [
+D:\Project\Project1\Project1\Source.cpp(514,87): warning C4267:             _Ty=int
+D:\Project\Project1\Project1\Source.cpp(514,87): warning C4267:         ]
+D:\Project\Project1\Project1\Source.cpp(774,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(774,66): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(774,66): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(774,66): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(774,66): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(774,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(774,49): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(774,49): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(774,49): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(774,49): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(775,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(775,74): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(775,74): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(775,74): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(775,74): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(775,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(775,49): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(775,49): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(775,49): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(775,49): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(780,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(780,58): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(780,58): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(780,58): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(780,58): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(780,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(780,41): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(780,41): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(780,41): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(780,41): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(781,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(781,82): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(781,82): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(781,82): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(781,82): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(781,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(781,49): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(781,49): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(781,49): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(781,49): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(789,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(789,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(818,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(818,102): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(818,102): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(818,102): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(818,102): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(818,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(818,73): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(818,73): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(818,73): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(818,73): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(819,114): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(819,114): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(819,114): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(819,114): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(819,114): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(819,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(819,79): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(819,79): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(819,79): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(819,79): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(822,108): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(822,108): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(822,108): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(822,108): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(822,108): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(822,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(822,79): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(822,79): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(822,79): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(822,79): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(823,108): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(823,108): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(823,108): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(823,108): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(823,108): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(823,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(823,73): warning C4244:         with
+D:\Project\Project1\Project1\Source.cpp(823,73): warning C4244:         [
+D:\Project\Project1\Project1\Source.cpp(823,73): warning C4244:             T=float
+D:\Project\Project1\Project1\Source.cpp(823,73): warning C4244:         ]
+D:\Project\Project1\Project1\Source.cpp(832,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Project\Project1\Project1\Source.cpp(831,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> D:\Project\Project1\x64\Debug\Project1.exe
